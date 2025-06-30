@@ -55,7 +55,7 @@ Bank_Customer_Churn_Insights_Dashboard/
 ├── Bank_Churn_Dashboard.pbix # Power BI report file
 ├── dashboard_preview.png # Dashboard screenshot
 ├── README.md # Project documentation
-└── Churn_Modelling.csv # Source data used for visualization
+└── Sample_data.zip # Source data used for visualization
 
 ## 🚀 How to Use
 
